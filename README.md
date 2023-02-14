@@ -2,7 +2,6 @@
 
 ####
  <a href="https://github.com/jessicardiax/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jessicardiax&show_icons=true&theme=midnight-purple" alt="jessicardiax's github stats" /></a> 
- 
 <a href="https://github.com/deborabckp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicardiax&layout=compact&theme=midnight-purple" /></a>
 
  <a href= "mailto:jessicardias.ufersa@gmailcom"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
