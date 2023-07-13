@@ -13,4 +13,3 @@
 ![snake gif](https://github.com/jessicardiax/jessicardiax/blob/output/github-contribution-grid-snake.svg)
 
 
-[![jessicardiax github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jessicardiax&bg_color=2b213ae&color=fcfcfc&line=fcfcfc&point=52f3ff&area=true&hide_border=true)](https://github.com/jessicardiax/github-readme-activity-graph)
