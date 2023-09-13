@@ -1,6 +1,6 @@
 
+//Hello guys, I'm Jéssica Dias, i have 21 years old. I'm studant at ufersa plus a like study new things and new linguage in programming.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color="fe428e"&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD,+my+name+is+Jéssica+Dias+;I'm+21+years+old;I+from+Brasil,Ceará+;I+study+In+Universidade+Rural+Do+Semi+Arido;+i+like+study+cybersecurity;be+welcome!+:%29)](https://git.io/typing-svg)
  |Contributions  |Languages  |
 |---|---|
 |![jessicardiax Github status](https://github-readme-stats.vercel.app/api?username=jessicardiax&show_icons=true&theme=synthwave) |[![Top Langs](https://githubreadme-stats.vercel.app/api/top-langs/?username=jessicardiax&layout=compact&theme=synthwave)](https://github.com/jessicardiax/github-readme-stats)  | 
