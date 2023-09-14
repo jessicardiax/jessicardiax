@@ -1,4 +1,4 @@
-### <h4> *Hello guys, i am  Jéssica Dias, i have 21 years old.i am studant at ufersa plus a like study new things and new linguage in programming.*
+### <h4> *Hello guys, i'm  Jéssica Dias, i'm 21 years old and i'm studant of ufersa. I love study new things including new programming languages.*
  <h4>
 
  
