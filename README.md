@@ -1,7 +1,7 @@
 ### <h4> *Hello guys, i'm  Jéssica Dias, i'm 21 years old and i'm student of ufersa. I love study new things including new programming languages.*
  <h4>
 
-   ![gif](https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif)
+   ![gif](https://cdn.dribbble.com/users/3671336/screenshots/6646593/jelisa_1to1px_animation3.gif)
 
 
 
@@ -11,11 +11,13 @@
 #
 #### 📊 *GitHub Stats*:
 
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=jessicardiax&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jessicardiax&theme=neon&hide_border=false"  width="400px" />
+<a href="https://github.com/jessicardiax">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicardiax&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+</div>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicardiax&layout=compact&langs_count=7&theme=neon"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jessicardiax&theme=neon&hide_border=false"  width="400px" />
 
-![*Jéssica Dias GitHub stats*](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=jessicardiax&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div>
 
 #
 <div align="center>
