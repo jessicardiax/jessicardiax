@@ -3,7 +3,8 @@
 
 <div align="center">
 
-   ![gif](https://cdn.dribbble.com/users/3671336/screenshots/6646593/jelisa_1to1px_animation3.gif)
+  ![image](https://github.com/jessicardiax/jessicardiax/assets/110692688/84a4ce82-fd73-42ff-9dcb-abc011544dee)
+
    
 </div>
 
