@@ -16,7 +16,6 @@
 # 📊 *GitHub Stats*:
 
 <a href="https://github.com/jessicardiax">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicardiax&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicardiax&layout=compact&langs_count=7&theme=neon"/>
 
 </div>
